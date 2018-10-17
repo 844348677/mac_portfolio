@@ -41,7 +41,7 @@ public class Practice {
         	    transactions.stream()
         	                .map(transaction -> transaction.getTrader().getCity())
         	                .collect(toSet());
-         */
+        */
         
 	}
 
