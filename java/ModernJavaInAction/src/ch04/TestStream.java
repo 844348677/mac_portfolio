@@ -3,6 +3,7 @@ package ch04;
 import java.util.Arrays;
 import java.util.List;
 import static java.util.stream.Collectors.toList;
+import static java.util.stream.Collectors.*;
 
 
 
