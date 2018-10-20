@@ -28,4 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 cd angular-tour-of-heroes
+
 ng serve --open
+
+https://angular.io/tutorial
