@@ -1,2 +1,2 @@
-insert into book (id, reader, isbn, title, author, description)
-                values (1, 'liuh', '9781617294945','Spring in Action','CRAIG WALLS','Spring Boot in Action 5th');
+insert into book (id, year, language, pages, reader, isbn, title, author, description)
+                values (1, 2018, 'english', 521, 'liuh', '9781617294945','Spring in Action','CRAIG WALLS','Spring Boot in Action 5th');
