@@ -1,9 +1,15 @@
 package liuh.leetcode.kInversePairsArray629;
 
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 /*
  未完成
  */
 public class Solution {
+
     public int kInversePairs(int n, int k) {
 
 
