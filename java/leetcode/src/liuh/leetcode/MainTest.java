@@ -26,6 +26,8 @@ public class MainTest {
         System.out.println(letterCombination.letterCombinations("23"));
         */
 
+        /*
+        530
         Solution minimumAbsolute = new Solution();
         TreeNode root0 = new TreeNode(1);
         TreeNode right1 = new TreeNode(3);
@@ -33,6 +35,7 @@ public class MainTest {
         root0.left = right1;
         right1.left = rightLeft2;
         System.out.println(minimumAbsolute.getMinimumDifference(root0));
+        */
 
 
     }
