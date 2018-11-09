@@ -1,4 +1,4 @@
-package liuh.leetcode.productOfArrayExceptSelf238;
+package liuh.leetcode.no238ProductOfArrayExceptSelf;
 
 public class Solution {
     public int[] productExceptSelf(int[] nums) {

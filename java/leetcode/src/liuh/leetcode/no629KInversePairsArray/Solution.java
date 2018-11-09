@@ -1,9 +1,4 @@
-package liuh.leetcode.kInversePairsArray629;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+package liuh.leetcode.no629KInversePairsArray;
 
 /*
  未完成

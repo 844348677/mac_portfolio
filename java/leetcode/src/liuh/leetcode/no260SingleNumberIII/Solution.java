@@ -1,6 +1,4 @@
-package liuh.leetcode.singleNumberIII260;
-
-import java.util.Arrays;
+package liuh.leetcode.no260SingleNumberIII;
 
 /*
 未完成

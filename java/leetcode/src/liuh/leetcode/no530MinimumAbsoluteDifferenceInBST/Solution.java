@@ -1,4 +1,4 @@
-package liuh.leetcode.minimumAbsoluteDifferenceInBST530;
+package liuh.leetcode.no530MinimumAbsoluteDifferenceInBST;
 
 import java.util.ArrayList;
 import java.util.List;

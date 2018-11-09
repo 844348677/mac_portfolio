@@ -1,4 +1,4 @@
-package liuh.leetcode.jewelsAndStones771;
+package liuh.leetcode.no711JewelsAndStones;
 
 public class Solution {
     public int numJewelsInStones(String J, String S) {

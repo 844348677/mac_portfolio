@@ -1,6 +1,5 @@
-package liuh.leetcode.mapSumPairs677;
+package liuh.leetcode.no677MapSumPairs;
 
-import javax.print.DocFlavor;
 import java.util.HashMap;
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package liuh.leetcode.summaryRanges228;
+package liuh.leetcode.no228SummaryRanges;
 
 import java.util.ArrayList;
 import java.util.List;

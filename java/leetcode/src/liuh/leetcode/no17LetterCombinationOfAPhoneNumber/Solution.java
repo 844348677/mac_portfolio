@@ -1,4 +1,4 @@
-package liuh.leetcode.letterCombinationOfAPhoneNumber17;
+package liuh.leetcode.no17LetterCombinationOfAPhoneNumber;
 
 import java.util.*;
 
