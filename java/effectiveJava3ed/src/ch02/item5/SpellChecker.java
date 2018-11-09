@@ -1,4 +1,4 @@
-package item5;
+package ch02.item5;
 
 import java.util.List;
 import java.util.Objects;

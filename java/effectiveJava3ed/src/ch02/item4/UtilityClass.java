@@ -1,4 +1,4 @@
-package item4;
+package ch02.item4;
 
 
 // Noninstantiable utility class

@@ -1,4 +1,4 @@
-package item2;
+package ch02.item2;
 
 //  Calzone calzone = new Calzone.Builder()
 //           .addTopping(HAM).sauceInside().build();
