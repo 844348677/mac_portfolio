@@ -1,4 +1,4 @@
-package ch04.item17;
+package ch04.item18;
 
 import java.util.Collection;
 import java.util.Iterator;

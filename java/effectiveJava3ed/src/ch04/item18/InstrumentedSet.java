@@ -1,4 +1,6 @@
-package ch04.item17;
+package ch04.item18;
+
+import ch04.item18.ForwardingSet;
 
 import java.util.Collection;
 import java.util.Set;
@@ -20,3 +22,6 @@ public class InstrumentedSet<E> extends ForwardingSet<E> {
         return addCount;
     }
 }
+
+// Decorator patterns
+
